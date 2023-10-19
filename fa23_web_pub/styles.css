@@ -1,0 +1,35 @@
+.text_my {display:none;}
+    span:hover {word-spacing: 0}
+    span:hover .text_my {
+    width: 500px;
+    padding: 100px;
+    height: 200px;
+    background: #800000;
+    opacity: 3;
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    margin-top: -50px;
+    border-radius: 0 0 0px 0px;
+    color: white;
+}
+.sss IMG {
+    border: 4px solid #fff;
+    box-shadow:0 0 50px #C71585;
+}
+html {
+    background-image: url("C:/Webprogect/fa23_web_pub/Листья.gif");
+    background-repeat: no-repeat;
+     background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.crop img {
+     margin-right: 70px;
+     margin-left: 70px;
+     margin-top: 30px;
+     margin-bottom: 10px;
+}
